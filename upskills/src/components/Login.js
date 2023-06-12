@@ -4,8 +4,8 @@ const Login = (props) => {
   return (
     <Container>
       <Nav>
-        <a href="/">
-          <img src="/images/logo_bege.png" alt="" />
+        <a href="/home">
+          <img src="/images/logo.png" alt="" />
         </a>
         <div>
           <Join>Cadastre-se</Join>
