@@ -11,7 +11,7 @@ const Header = (props) => {
                 </Logo>
                 <Search>
                     <div>
-                        <input type="text" placeholder="Search" />
+                        <input type="text" placeholder="Pesquisar" />
                     </div>
                     <SearchIcon>
                         <img src="/images/search-icon.svg" alt="" />
